@@ -1,4 +1,4 @@
-# dlicing_figma
+# Slicing_figma
 
 A new Flutter project.
 
