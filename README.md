@@ -1,4 +1,3 @@
-![Uploading Home.jpg…]()
 # Slicing_figma
 
 A new Flutter project.
